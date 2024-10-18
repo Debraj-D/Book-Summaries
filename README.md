@@ -1,2 +1,2 @@
 # Book-Summaries
-Summaries of books read by me
+Here you can find summaries of books read by me.
